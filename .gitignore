@@ -34,3 +34,8 @@
 # Paths
 bin/
 lib/
+
+# Visual Studio stuff
+.vs/
+*.vcxproj.user
+*.aps
